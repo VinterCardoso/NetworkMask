@@ -2,7 +2,6 @@
 
 ![Badge de Status do Projeto](https://img.shields.io/badge/Status-EM_DESENVOLVIMENTO-yellow)
 
-
 ## 💡 Sobre o Projeto
 
 Este repositório contém um projeto educacional focado no ensino e prática do conceito de **Máscara de Rede (Subnetting)**, essencial em Redes de Computadores.
@@ -40,7 +39,6 @@ O projeto é dividido em três módulos principais, alinhados ao fluxo de aprend
     * Avaliações textuais sobre os conceitos Classfull e Classless.
     * Avaliações práticas utilizando uma ferramenta para testar o conhecimento do cálculo de máscara.
 
-
 ## 🚀 Como Executar o Projeto Localmente
 
 Siga estas instruções para ter uma cópia do projeto rodando na sua máquina local.
@@ -61,3 +59,7 @@ Siga estas instruções para ter uma cópia do projeto rodando na sua máquina l
     ```bash
     yarn dev
     ```
+
+### Referências
+
+[IFRN - Redes](https://docentes.ifrn.edu.br/thiagodutra/disciplinas/materiais/infraestrutura-de-redes-de-computadores-tms/11CamadadeRede.pdf)

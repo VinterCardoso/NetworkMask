@@ -20,6 +20,11 @@ Este objeto de aprendizagem tem como público alvo alunos nos primeiros período
 ### Modelo instrucional
 ![Modelo instrucional](/Model/IAM-CID.png "Modelo instrucional")
 
+
+### Plano de aula
+
+[Link para o Plano de Aula](/Plano_aula.md "Link para o Plano de aula")
+
 ## ✨ Funcionalidades Principais
 
 O projeto é dividido em três módulos principais, alinhados ao fluxo de aprendizado:

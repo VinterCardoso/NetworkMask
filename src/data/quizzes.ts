@@ -134,22 +134,6 @@ const quizzes = [
       "Incorreto — /8 é válido (máscara de Classe A tradicional)."
     ]
   },
-  {
-    question: "No conteúdo, qual é um uso prático citado para segmentar redes com máscaras?",
-    options: [
-      "Reduzir domínios de broadcast e melhorar segurança/performance",
-      "Aumentar a potência do sinal Wi‑Fi",
-      "Gerar chaves de criptografia",
-      "Controlar velocidade dos switches"
-    ],
-    answer: "Reduzir domínios de broadcast e melhorar segurança/performance",
-    explanations: [
-      "Correto — as páginas apontam segmentação como forma de reduzir broadcast e melhorar segurança/performance.",
-      "Incorreto — potência do sinal Wi‑Fi não é afetada pela máscara.",
-      "Incorreto — máscara não gera chaves de criptografia.",
-      "Incorreto — máscara não controla a velocidade dos switches."
-    ]
-  },
 ];
 
 export default quizzes;

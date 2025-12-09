@@ -40,12 +40,6 @@ const ClassfulPage: React.FC = () => {
         escolher um bloco maior, desperdiçando endereços.
       </p>
 
-      <h3>Quando você ainda vê referências a classes</h3>
-      <p>
-        Conceitos como "endereço de Classe A/B/C" ainda aparecem em documentação legada, exemplos didáticos e ao
-        entender intervalos padrão; porém, para planejamento real de redes modernas prefira trabalhar com CIDR.
-      </p>
-
       <div className="page-nav-sides" style={{ marginTop: 18 }}>
         <NextButton
           to="/concepts/addressing"
